@@ -39,6 +39,6 @@ I attended the R New York Conference https://www.rstats.nyc on May 10 and May 11
    * Speaker: Dr. Adam Chekroud, Spring Health
    * *Use Case: In the process of personaling mental health care, fit a model to measure risk by predicting suicide attempts and suicide deaths following outpatient visits *
 9. **xgboost**: Extreme Gradient Boosting
-   * [Documentation] (https://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html)
+   * [Documentation](https://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html)
    * Speaker: Dr. Adam Chekroud, Spring Health
    * *Use Case: In the process of personalizing mental health care, rank most likely reasons why an individual won’t get treatment*
