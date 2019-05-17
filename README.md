@@ -84,7 +84,7 @@ I attended the R New York Conference https://www.rstats.nyc on May 10 and May 11
 25. **[readr](https://readr.tidyverse.org)**: Tidyverse package providing a fast and friendly way to read rectangular data (like csv, tsv, and fwf).
   * Speaker: Brooke Wason, Senior Data Scientist, ACLU
   * *Use Case: Read multiple file types*
-26. **[visdat](https://cran.r-project.org/web/packages/visdat/vignettes/using_visdat.html): Visual display of observations
+26. **[visdat](https://cran.r-project.org/web/packages/visdat/vignettes/using_visdat.html)**: Visual display of observations
 with missing data
   * Speaker: Brooke Wason, Senior Data Scientist, ACLU
   * *Use Case: Visualize missing data*
