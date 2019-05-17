@@ -1,6 +1,6 @@
 ##  A Window into the R Packages mentioned at the R New-York Conference 
 
-I attended the R New York Conference https://www.rstats.nyc on May 10 and May 11, 2019, which was packed with a number of wonderful presentations. Many of the speakers were kind enough to share the R packages they used in the work they presented. Some were familiar but many of them were new to me. Here is a short summary of the different R packages. The *Use Cases* here correspond to the examples used by the speakers. 
+I attended the R New York Conference https://www.rstats.nyc on May 10 and May 11, 2019, which was packed with a number of wonderful presentations. Many of the speakers were kind enough to share the R packages they used in the work they presented. I was familiar with a few of the packages but most were new to me. Here is a short summary of the different R packages that were mentioned by the different speakers in the conference. The *Use Cases* here correspond to the examples used by the speakers. 
 
 1.	**[tidyverse](https://www.tidyverse.org):** Collection of R packages designed for datascience
    * Speaker: Ludmilla Janda, Amplify
@@ -97,4 +97,3 @@ with missing data
 29. **[survival](https://cran.r-project.org/web/packages/survival/survival.pdf)**: R package for doing survival analysis
    * Speaker: Elizabeth Sweeney
    * *Use Case: Survival analysis of data from clinical trials*
-
