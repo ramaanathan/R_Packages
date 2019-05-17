@@ -46,3 +46,30 @@ I attended the R New York Conference https://www.rstats.nyc on May 10 and May 11
   * Speaker: Heather Nolix, T-Mobile
   * *Use Case: Use elastic container storage on AWS to set up the dockers (containers) to deploy the neural network application built using plumbr*
   * Resource: [Detailed instructions on setting up docker](https://medium.com/tmobile-tech/using-docker-to-deploy-an-r-plumber-api-863ccf91516d)
+14. **[rvest](https://cran.r-project.org/web/packages/rvest/rvest.pdf)**: Scrape data from web html pages
+   * Speaker: Namita Nandakumar, Philadelphia Eagles
+   * *Use Case: Scrape hockey reference draft data*
+15. **[rstanarm](https://mc-stan.org/users/interfaces/rstanarm)**: Bayesian applied regression modeling via Stan
+   * Speaker: Namita Nandakumar, Philadelphia Eagles
+   * *Use Case: Used baysian statistics and logistic regression to estimate the probability of picking overagers during draft*
+   * Resource: [Code and slides on Github](https://github.com/namitanandakumar/Draft-Analysis/tree/master/NYC%20R)
+16. **[neuroconductor](https://neuroconductor.org)**: an open source platform in R for rapid testing analyzing neuro images
+   * Speaker: Elizabeth Sweeney, Weill Cornell
+   * *Use Case: Analyse structural MRI images*
+17. **[fslr](https://cran.r-project.org/web/packages/fslr/fslr.pdf)**: Useful open-source scriptable software using wrapper fucntions for neuroimaging analysis.
+   * Speaker: Elizabeth Sweeney, Weill Cornell
+   * *Use Case: Analyze functional MRI images of the brain*
+18. **[brms](https://cran.r-project.org/web/packages/brms/brms.pdf)**: Bayesian regression models using Stan
+   * Speaker: Jim Savage, Scmidt Futures
+   * *Use Case: Integrate loss function over posterior estimate*
+19. **[bart](https://cran.r-project.org/web/packages/bartMachine/vignettes/bartMachine.pdf)**: machine learning with bayesian additive regression trees
+   * Speaker: Jim Savage, Scmidt Futures
+   * *Use Case: Machine learning as a bayesian equivalent to xgboost*
+20. **[rchie](https://cran.rstudio.com/web/packages/rchie/rchie.pdf)**: A parser for Archie ML. 
+   * Speaker: Dr. Naom Ross, ROpenSci & EcoHealth Alliance
+   * Resource: [Archie ML](http://archieml.org) - Archie Markup Language is a structured text format optimized for human writability.
+   * *Use Case: Write in google doc with a little markup*
+21. **[redoc](https://noamross.github.io/redoc/index.html)**: Two-way R Markdown-Microsoft Word workflow. It generates Word documents that can be de-rendered back into R Markdown, retaining edits on the Word document, including tracked changes.
+   * Speaker: Dr. Naom Ross, ROpenSci & EcoHealth Alliance
+   * *Use Case: Collaboration between datascience and management teams using spearate R workflow and office workflow*
+   
