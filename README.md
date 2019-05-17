@@ -35,3 +35,14 @@ I attended the R New York Conference https://www.rstats.nyc on May 10 and May 11
 10. **[lme4](https://cran.r-project.org/web/packages/lme4/lme4.pdf), [nlme](https://cran.r-project.org/web/packages/nlme/nlme.pdf)**: Fit linear and non-linear mixed effects models
    * Speaker: Dr. Adam Chekroud, Spring Health
    * *Use Case*: Compare new informed treatment versus psychological treatment for depression and anxiety
+11. **[keras](https://keras.rstudio.com)**: High level neural network API using Pythin and tensorflow in the background
+   * Speaker: Jacqueline Nolis, Nolis LLC
+   * *Use Case: Create a sample neural network to predict new pet names*
+12. **[plumber](https://www.rplumber.io)**: An R package that converts your existing R code to a web API using a handful of special one-line comments.
+   * Speaker: Heather Nolis, T-Mobile
+   * *Use Case: Put the sample neural network application to predict pet names into production using REST API*
+   * Resource: [Detailed Instructions on using plumbr](https://medium.com/tmobile-tech/r-can-api-c184951a24a3)
+13. **[rocker](https://hub.docker.com/_/r-base/)**: Use Docker (containers) to deploy an R Plumber API
+  * Speaker: Heather Nolix, T-Mobile
+  * *Use Case: Use elastic container storage on AWS to set up the dockers (containers) to deploy the neural network application built using plumbr*
+  * Resource: [Detailed instructions on setting up docker](https://medium.com/tmobile-tech/using-docker-to-deploy-an-r-plumber-api-863ccf91516d)
