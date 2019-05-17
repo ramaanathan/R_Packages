@@ -2,7 +2,7 @@
 
 I attended the R New York Conference https://www.rstats.nyc on May 10 and May 11, 2019. The conference was packed with a number of wonderful presentations. Many of the speakers were kind enough to share the R packages they used in the work they presented. I was familiar with a few of the packages but most were new to me. Here is a short summary of the different R packages that were mentioned by the different speakers in the conference. All the package names are linked to their documenation. The *Use Cases* here correspond to the examples used by the speakers. 
 
-1.	**[tidyverse](https://www.tidyverse.org):** Collection of R packages designed for datascience
+1. **[tidyverse](https://www.tidyverse.org):** Collection of R packages designed for datascience
    * Speaker: Ludmilla Janda, Amplify
    * *Use case: Building Tidyverse from Scratch Using Scratch Box to teach Data Visualization to middle school students. Different blocks are created for each of the tidyverse components. The blocks can be chained together to complete the tasks. Students are able to do data processing and build complex visualizations by interacting only with the blocks.*
 2. **[h20](https://cran.r-project.org/web/packages/h2o/h2o.pdf):** Open source machine learning platform for parallelized implementations of supervised and unsupervised algorithms
@@ -12,9 +12,9 @@ I attended the R New York Conference https://www.rstats.nyc on May 10 and May 11
    * Speaker: Emily Dodwell, AT&T Labs Research
    * *Use Case: Building recommendation systems for DirectTV using tangled Lasso and Boosted trees*
 4. **[usethis](https://www.tidyverse.org/articles/2018/02/usethis-1-3-0/):** A workflow package for creating R packages
-   * Resources: [Git With R](https://happygitwithr.com), [R-Pkgs](https://r-pks.org)
    * Speaker: Emily Robinson, DataCamp
    * *Use Case: Building R packages*
+   * Resources: [Git With R](https://happygitwithr.com), [R-Pkgs](https://r-pks.org)
 5. **[drake](https://ropenscilabs.github.io/drake-manual/index.html):**  Pipeline toolkit for building reproducible and replicable projects - an alternate to Makefile
    * Resource: [NYC FIRES](https://github.com/aedobbyn/nyc-fires)
    * Speaker: Amanda Dobbyn, Earlybird Software
