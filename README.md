@@ -1,6 +1,6 @@
 ##  A Window into the R Packages mentioned at the R New-York Conference 
 
-I attended the R New York Conference https://www.rstats.nyc on May 10 and May 11, 2019. Many of the speakers were kind enough to share the R packages they used in the work they presented. Some were familiar to me but many of them were new to me. Here is a short summary of the different R packages. 
+I attended the R New York Conference https://www.rstats.nyc on May 10 and May 11, 2019. Many of the speakers were kind enough to share the R packages they used in the work they presented. Some were familiar but many of them were new to me. Here is a short summary of the different R packages. The *Use Cases* here correspond to the examples used by the speakers.
 
 
 1.	**tidyverse:** collection of R packages designed for datascience
@@ -10,7 +10,7 @@ I attended the R New York Conference https://www.rstats.nyc on May 10 and May 11
 2. **h20:** open source machine learning platform for parallelized implementations of supervised and unsupervised algorithms
    * [Documentation](https://cran.r-project.org/web/packages/h2o/h2o.pdf) 
    * Speaker: Emily Dodwell, AT&T Labs Research
-   * *Use Case: Building recommendation systems for DirectTV using tangled Lasso and Boosted trees
+   * *Use Case: Building recommendation systems for DirectTV using tangled Lasso and Boosted trees*
 3. **sparklyr:** R interface to Apache Spark*
    * [Documentation](https://spark.rstudio.com) 
    * Speaker: Emily Dodwell, AT&T Labs Research
@@ -25,3 +25,20 @@ I attended the R New York Conference https://www.rstats.nyc on May 10 and May 11
    * Resource: [NYC FIRES](https://github.com/aedobbyn/nyc-fires)
    * Speaker: Amanda Dobbyn, Earlybird Software
    * *Use Case: Workflow for analysing when and where fires happen in NYC*
+6. **arrow:** R interface to Apache Arrow, a cross-language development platform for in-memory data
+   * [Documentation](https://spark.rstudio.com/guides/arrow/)
+   * Resource: [Arrow Apache](https://arrow.apache.org)
+   * Speaker: Wes McKinney, Ursa Labs
+   * *Use Case: Build compatibility between the different platforms of R, Python, Matlabs, etc *
+7. **rnn**: Recurrent neural network
+   * [Documentation](https://www.rdocumentation.org/packages/rnn/versions/0.8.1)
+   * Speaker: Dr. Michelle Gill, Benevolent AI
+   * *Use Case: AI driven drug discovery*
+8. **glmnet**: Fit a generalized linear model via penalized maximum likelihood.
+   * [Documentation](https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html)
+   * Speaker: Dr. Adam Chekroud, Spring Health
+   * *Use Case: In the process of personaling mental health care, fit a model to measure risk by predicting suicide attempts and suicide deaths following outpatient visits *
+9. **xgboost**: Extreme Gradient Boosting
+   * [Documentation] (https://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html)
+   * Speaker: Dr. Adam Chekroud, Spring Health
+   * *Use Case: In the process of personalizing mental health care, rank most likely reasons why an individual won’t get treatment*
